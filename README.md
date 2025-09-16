@@ -6,7 +6,7 @@ Saya, **Shidqi Rasyad Firjatulah**  dengan NIM: 2408156, mengerjakan TP1 pada ma
 ---
 
 # TUJUAN PROGRAM
-Proyek ini bertujuan membuat **aplikasi CRUD** untuk mengelola **data laptop** secara interaktif, menggunakan beberapa bahasa pemrograman: **C++, Python, PHP, dan Java**.
+Program ini bertujuan membuat **aplikasi CRUD** untuk mengelola **data laptop** secara interaktif, menggunakan beberapa bahasa pemrograman: **C++, Python, PHP, dan Java**.
 
 ---
 
