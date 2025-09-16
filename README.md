@@ -1,4 +1,4 @@
-# 📌 MANAJEMEN TOKO ELEKTRONIK (TOKO LAPTOP)
+#  MANAJEMEN TOKO ELEKTRONIK (TOKO LAPTOP)
 
 **Janji:**  
 Saya, **Shidqi Rasyad Firjatulah** (NIM: 2408156), mengerjakan TP1 pada mata kuliah **DPBO**. Dengan keberkahan-Nya, saya menyatakan bahwa saya tidak melakukan kecurangan sebagaimana yang dispesifikasikan.
@@ -10,7 +10,7 @@ Proyek ini bertujuan membuat **aplikasi CRUD** untuk mengelola **data laptop** s
 
 ---
 
-## ✨ FITUR UTAMA
+##  FITUR UTAMA
 - **TAMBAH LAPTOP**  
 - **TAMPILKAN DAFTAR LAPTOP**  
 - **UPDATE LAPTOP**  
@@ -19,7 +19,7 @@ Proyek ini bertujuan membuat **aplikasi CRUD** untuk mengelola **data laptop** s
 
 ---
 
-## 🛠️ DESAIN PROGRAM
+##  DESAIN PROGRAM
 
 ### 1️⃣ C++ 
 - **Laptop Class:** Menyimpan atribut laptop (**id, merk, harga, stok**)  
@@ -43,14 +43,4 @@ Proyek ini bertujuan membuat **aplikasi CRUD** untuk mengelola **data laptop** s
 
 ---
 
-## 💻 LANGKAH MENJALANKAN PROGRAM
-1. **C++:** Compile dan jalankan `main.cpp`  
-2. **Python:** Jalankan `main.py`  
-3. **PHP:** Jalankan `index.php` di server lokal (misal XAMPP)  
-4. **Java:** Compile dan jalankan `Main.java`  
-
----
-
-## 📌 CATATAN
-Semua versi program memiliki tujuan yang sama, yaitu mengelola data laptop secara interaktif dengan fitur **CRUD**.  
 
