@@ -1,8 +1,6 @@
 # TP1_ShidqiRasyadFirjatulah
 Manajemen Toko Elektronik (Toko Laptop)
-
 Janji: Saya Shidqi Rasyad Firjatulah dengan NIM 2408156 mengerjakan TP1 pada mata kuliah DPBO, atas keberkahannya saya tidak melakukan kecurangan seperti yang dispesifikasikan
-
 Kode ini bertujuan membuat aplikasi CRUD untuk mengelola data laptop secara interaktif, menggunakan beberapa Bahasa pemrgoraman (C++, Python, PHP, JavaScript).
 Fitur Utama: 
 - Tambah Laptop
