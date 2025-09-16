@@ -24,23 +24,23 @@ Program ini bertujuan membuat **aplikasi CRUD** untuk mengelola **data laptop** 
 ### 1️⃣ C++ 
 - **Laptop Class:** Menyimpan atribut laptop (**id, merk, harga, stok**)  
 - **ManageLaptop Class:** Mengelola CRUD menggunakan **vector**  
-- **Main Program:** Menerima input user dan memanggil method CRUD  
+- **Main Program:** Menerima input user dan memanggil method CRUD
+---
 
 ### 2️⃣ Python
 - **Laptop Class:** Menyimpan data laptop  
 - **ManageLaptop Class:** Mengelola CRUD menggunakan **list**  
 - **Main Program:** Menerima input user dan memanggil method CRUD  
-
+---
 ### 3️⃣ PHP
 - **Laptop Class:** Menyimpan data laptop  
 - **ManageLaptop Class:** Menangani CRUD, data disimpan di **session**  
 - **Index.php:** Form tambah laptop, tabel daftar laptop, search untuk mencari data laptop, tombol Update dan Hapus  
-
+---
 ### 4️⃣ Java
 - **Laptop Class:** Menyimpan data laptop  
 - **ManageLaptop Class:** CRUD menggunakan **ArrayList<Laptop>**  
 - **Main Program:** Menerima input user dan memanggil method CRUD  
-
 ---
 
 
