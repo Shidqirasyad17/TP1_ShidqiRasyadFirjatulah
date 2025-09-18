@@ -1,7 +1,7 @@
 #  MANAJEMEN TOKO ELEKTRONIK (TOKO LAPTOP)
 
 **Janji:**  
-Saya, Shidqi Rasyad Firjatulah  dengan NIM: 2408156, mengerjakan TP1 pada mata kuliah DPBO. Dengan keberkahan-Nya, saya menyatakan bahwa saya tidak melakukan kecurangan sebagaimana yang dispesifikasikan.
+Saya, Shidqi Rasyad Firjatulah 2408156, mengerjakan TP1 pada mata kuliah DPBO. Dengan keberkahan-Nya, saya menyatakan bahwa saya tidak melakukan kecurangan sebagaimana yang dispesifikasikan.
 
 ---
 
