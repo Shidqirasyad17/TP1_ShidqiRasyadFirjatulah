@@ -9,6 +9,7 @@ class ManageLaptop:
     def addData(self, id_laptop, merk, harga, stok):
         self.daftar_laptop.append(Laptop(id_laptop, merk, harga, stok))
         print("\nData Berhasil Ditambahkan!")
+
     # untuk menampilkan data yang ada di daftar laptop
     def showdata(self):
         print("\nDaftar Laptop:")
@@ -36,9 +37,9 @@ class ManageLaptop:
 
     # untuk menghapus data pada daftar laptop
     def deletedata(self, id_laptop):
-        for idx, i in enumerate(self.daftar_laptop):
+        for  i in self.daftar_laptop:
             if i.getid_laptop() == id_laptop:
-                del self.daftar_laptop[idx]
+                self.daftar_laptop.remove(i)
                 print(f"Data Laptop dengan ID : {id_laptop} berhasil dihapus")
                 return
         print("Data not found")
