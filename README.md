@@ -30,7 +30,7 @@ Program ini bertujuan membuat **aplikasi CRUD** untuk mengelola **data laptop**,
 
 ##  FITUR UTAMA
 - **TAMBAH LAPTOP**  
-- **TAMPILKAN DAFTAR LAPTOP**  
+- **TAMPILKAN LAPTOP**  
 - **UPDATE LAPTOP**  
 - **HAPUS LAPTOP**  
 - **CARI LAPTOP**  
