@@ -13,11 +13,12 @@ Program ini bertujuan membuat **aplikasi CRUD** untuk mengelola **data laptop**,
 # FLOW KODE
 **Class Laptop**
 - Menyimpan Data Laptop seperti : 
- - Id_Laptop
- - Merk
- - Harga
- - Stok
- - Menyediakan getter dan setter
+  - Id_Laptop
+  - Merk
+  - Harga
+  - Stok
+  - Gambar(hanya di php)
+  - Menyediakan getter dan setter
   **Class ManageLaptop**
 - Menyediakan metode untuk crud, seperti:
   - AddData -> membuat data laptop baru -> menyimpan ke list/vector/arrayList/session
