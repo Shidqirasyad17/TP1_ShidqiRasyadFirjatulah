@@ -3,8 +3,7 @@
 **Janji:**  
 Saya, Shidqi Rasyad Firjatulah  dengan NIM: 2408156, mengerjakan TP1 pada mata kuliah DPBO. Dengan keberkahan-Nya, saya menyatakan bahwa saya tidak melakukan kecurangan sebagaimana yang dispesifikasikan.
 
- **Flow Kode**
-1. AddData (Menambah Produk)
+ **Flow Kode**1. AddData (Menambah Produk)
 2. ShowData (Menampilkan Produk)
 3. UpdateData (Untuk Memperbarui jika ada data yang ingin diubah)
 4. DeleteData (Untuk Menghapus data)
